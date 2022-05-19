@@ -1,5 +1,5 @@
----
-title: Hello World
+Hello, I want to Receive a 2 Hour Delivery Window for Amazon Fresh Groceries, for Saturday!
+ttle: Hello World
 intro: 'Follow this Hello World exercise to get started with {% data variables.product.product_name %}.'
 versions:
   fpt: '*'
